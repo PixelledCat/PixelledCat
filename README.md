@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nova 👋
 
-<!--
-**NoLiferNova/NoLiferNova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building:
+- 🤖 StellarMM - AI-powered Discord AutoMM
+- 🎬 Phinxz Movies
+- ⚡ AI agents & MCP tools
 
-Here are some ideas to get you started:
+## Tech Stack
+- TypeScript
+- Node.js
+- PostgreSQL
+- Docker
+- Redis
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Production-ready AutoMM
+- Multi-chain crypto support
+- AI workflow optimization
+
+## Stats
+
+## Contact
+Discord: phinx.acc4
+Website: https://qol.phinxz.fun
