@@ -1,11 +1,13 @@
-# Hi, I'm Nova 👋
+# Hi, I'm Phinxz 👋
 
 Building:
-- 🤖 StellarMM - AI-powered Discord AutoMM
-- 🎬 Phinxz Movies
-- ⚡ AI agents & MCP tools
+- EzLife - Hypixel Listing-Bot and Marketplace Manager
+- EzSecure - Microsoft Account Autosecure and Minecraft Account Manager
+- StellarMM - AI-powered Discord Auto MM [ STILL IN DEVELOPMENT ]
+- Nexis - Bazar Macro [ STILL IN DEVELOPMENT ] 
+- Phinxz Movies
 
-## Tech Stack
+## Tech Stack - Beginner
 - TypeScript
 - Node.js
 - PostgreSQL
@@ -22,4 +24,4 @@ Building:
 
 ## Contact
 Discord: phinx.acc4
-Website: https://qol.phinxz.fun
+
